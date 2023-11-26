@@ -1,0 +1,16 @@
+{
+  "name": "employee-management",
+  "version": "1.0.0",
+  "description": "Employee Management System",
+  "main": "index.js",
+  "scripts": {
+    "backend-test": "npm run backend/",
+    "prepare": "husky install"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^8.0.0"
+  }
+}

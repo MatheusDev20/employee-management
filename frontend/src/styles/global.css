@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@font-face {
+  font-family: "BEBAS";
+  src: url('../../fonts/BebasNeue-Regular.ttf');
+}
+body {
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+}
